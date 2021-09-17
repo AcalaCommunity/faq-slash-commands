@@ -1,4 +1,4 @@
-import { Application } from "../../projects/slash-server/mod.ts";
+import { Application } from "https://raw.githubusercontent.com/brettkolodny/slash-server/main/mod.ts";
 import commands from "./commands.ts";
 
 if (!(Deno.env.get("CLIENT_ID") && Deno.env.get("PUBLIC_KEY") && Deno.env.get("TOKEN"))) {
