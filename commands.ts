@@ -74,7 +74,7 @@ ledger.serverId = SERVER_ID;
 
 const lp = new Command();
 lp.name = "lp";
-lp.description = "Can I use my Ledger for my KAR/ACA Tokens?";
+lp.description = "How can I find information about Karuras Liquidity Pools, what are the incentives to be a Liquidity Provider, and what are the risks?";
 lp.response = `
 Statistics and more on Karura LPs + TVL can be found at our [Karura Stat Dashboard.](https://stats.karura.network/)
 All the information regarding incentives, risks and more **can be found in our** [Wiki.](https://wiki.karura.app/earn)
