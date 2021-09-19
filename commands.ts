@@ -81,6 +81,23 @@ All the information regarding incentives, risks and more **can be found in our**
 `;
 lp.serverId = SERVER_ID;
 
+const transferToKarura = new Command();
+transferToKarura.name = "transfer-to-karura";
+transferToKarura.description = "How can I bring tokens to Karura?";
+transferToKarura.response = `
+Here are some ways to get KSM to Karura:
+1. I don't own any KSM yet
+Send KSM from an exchange address to Kusama, then use the [Transfer Guide](https://wiki.karura.app/general/transfer-guide) to send from Kusama to Karura.
+Use a non-custodian cross-chain exchange to swap Ethereum assets for KSM, send to a KSM account in your Polkadot.js wallet, then follow the [Transfer Guide](https://wiki.karura.app/general/transfer-guide) for sending from Kusama to Karura.
+2. You already own KSM on Kusama
+Send KSM from your account on the Kusama Relay Chain to Karura: [Transfer Guide](https://wiki.karura.app/general/transfer-guide)
+3. You already own KSM on an exchange
+Send KSM from an exchange address to Kusama, then use the [Transfer Guide](https://wiki.karura.app/general/transfer-guide) to send from Kusama to Karura
+Here are some ways to get KAR on Karura:
+Send KAR from an exchange address to an account on Kusama then to Karura using the [Transfer Guide](https://wiki.karura.app/general/transfer-guide)
+`;
+transferToKarura.serverId = SERVER_ID;
+
 export default [
   acalaRelease,
   karAcalaStaking,
@@ -91,4 +108,5 @@ export default [
   ledger,
   karuraFuture,
   lp,
+  transferToKarura,
 ];
