@@ -11,7 +11,7 @@ acalaRelease.response = `
 Acala will go live after winning a [Polkadot Parachain Slot](1).
 [ACA](https://acala.network/acala/token) tokens will be distributed after the parachain slot has been won. 
 Sadly we don't know the date or timeframe on this, because it's in the hands of Polkadot to provide us and the community with a date. But it should be in the near future. 
-[JOIN OUR CROWDLOAN WAITLIST!](https://acala.network/acala/join-acala)
+[Join the waitlist](https://acala.network/acala/join-acala)
 `;
 acalaRelease.serverId = SERVER_ID;
 
