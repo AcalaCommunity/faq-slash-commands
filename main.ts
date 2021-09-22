@@ -3,17 +3,6 @@ import {
 } from "https://raw.githubusercontent.com/brettkolodny/slash-server/main/mod.ts";
 import commands from "./commands/mod.ts";
 
-Deno.env.set("CLIENT_ID", "887442889968336987");
-Deno.env.set(
-  "PUBLIC_KEY",
-  "44ea0b11f60503fe9fffe01d745f0b10ad8432b63de39b3ef1ee48a736a93af3"
-);
-Deno.env.set(
-  "TOKEN",
-  "ODg3NDQyODg5OTY4MzM2OTg3.YUENmA.3PxECrp-bjpwHUc6ifUKOgWZGuE"
-);
-Deno.env.set("SERVER_ID", "816392847859122186");
-
 if (
   !(
     Deno.env.get("CLIENT_ID") &&
