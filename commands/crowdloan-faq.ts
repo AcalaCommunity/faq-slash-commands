@@ -49,6 +49,11 @@ No. Do not use Ledger. Ledger does not support Acala and you won't be able to ac
 ## wallets
 ### Which wallets can I use?
 The Polkadot.js browser extension and the Polkawallet mobile app are both supported wallets for the crowdloans and Acala. Additional supported wallets may be announced at a later date.
+
+## new-command
+### This is a new command
+This is the response
+
 `;
 
 export default crowdloanFAQ;
