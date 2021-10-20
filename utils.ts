@@ -10,7 +10,9 @@ export function mdToCommands(mdString: string): Command[] {
     line = line.trim();
     if (line.startsWith("###")) {
       command.description = line.slice(3).trim();
-      console.log(command.description.length);
+      if (command.description.length > 100) {
+        console.error(`Command: ${command.name} description too long`);
+      }
     } else if (line.startsWith("##")) {
       if (command.name) {
         command.response = response.join("\n");
@@ -21,12 +23,15 @@ export function mdToCommands(mdString: string): Command[] {
       }
 
       command.name = line.slice(2).trim();
-    } else if (line.startsWith("#") || line === "") {
+    } else if (line.startsWith("#")) {
       return;
     } else {
       response.push(line);
     }
   });
+
+  command.response = response.join("\n");
+  commands.push(command);
 
   return commands;
 }

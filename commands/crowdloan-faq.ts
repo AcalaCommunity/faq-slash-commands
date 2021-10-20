@@ -35,6 +35,7 @@ Liquid Crowdloan DOT (lcDOT) represents the underlying DOT liquidity of an Acala
 ### What happens if I sell my lcDOT?
 Contributors that made a Liquid Crowdloan Contribution must hold lcDOT at the end of the parachain lease in order to redeem their lcDOT for DOT. If these contributors no longer hold lcDOT, they won’t be able to redeem for DOT. However, selling lcDOT has no impact on ACA rewards. 
 
+
 ## wen-aca
 ### When will I receive my ACA tokens?
 You will receive your ACA after Acala wins a parachain slot, launches the network, and enables token transfers.
@@ -44,9 +45,11 @@ You will receive your ACA after Acala wins a parachain slot, launches the networ
 ### Where can I find the answer to my question?
 You can find the answer to your qeustion by visiting https://wiki.acala.network/acala/acala-crowdloan/faq
 
+
 ## how-participate
 ### Where can I learn more about how to participate?
 You can find more information by visiting https://wiki.acala.network/acala/acala-crowdloan/crowdloan-event
+
 
 ## ledger
 ### Can I use Ledger?
