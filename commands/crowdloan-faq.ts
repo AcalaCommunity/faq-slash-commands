@@ -55,7 +55,6 @@ You can find more information by visiting https://wiki.acala.network/acala/acala
 ### Can I use Ledger?
 No. Do not use Ledger. Ledger does not support Acala and you won't be able to access your ACA tokens. We can not and will not help you get your ACA tokens if you use Ledger.
 
-
 ## quests-help
 ### How can I learn more about Acala Quests?
 Visit https://wiki.acala.network/acala/acala-crowdloan/acala-quests to learn more and for troubleshooting help
