@@ -1,4 +1,4 @@
-import { CommandGroup } from "https://raw.githubusercontent.com/brettkolodny/slash-server/main/mod.ts";
+import { CommandGroup } from "https://raw.githubusercontent.com/brettkolodny/slash-server/0a7662f8e4de7d86295881ea432ea4ea1efac2e8/mod.ts";
 import { mdToCommands } from "../utils.ts";
 import crowdloanFAQ from "./crowdloan-faq.ts";
 import generalFAQ from "./general-faq.ts";
