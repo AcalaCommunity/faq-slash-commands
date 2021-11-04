@@ -57,6 +57,7 @@ The price of lcDOT will be determined by the free market. Acala does not control
 
 
 ## price-talk
+### Server rules about price talk
 We do not discuss price in this server. You can discuss price in community-run, Acala+ server https://discord.gg/HCpBgJc7.
 
 
