@@ -11,17 +11,17 @@ There are two ways to get a referral code. Users on the waitlist can complete th
 Users on the waitlist are the only users that can change the DOT address linked to their referral code.
 To change the DOT address, redo Quests 1 and 2 using your waitlist email address and the new DOT address you'd like to use for your referral link. Your new referral link will be emailed to you.
 
-## 10%-bonus
+## 10-bonus
 ### How do I get my 10% referral bonus?
 To get your 10% ACA bonus, enter YOUR referral code to self-refer when you make YOUR crowdloan contribution. You'll receive a 5% ACA bonus as the referrer and 5% ACA bonus as referee for a total of 10% bonus on YOUR DOT contribution. Share YOUR referral code with others and receive a 5% bonus in ACA on THEIR DOT contributions.
 
 
-## 5%-bonus
+## 5-bonus
 ### How do I get my 5% referral bonus?
 Enter SOMEONE ELSE'S referral code when you make YOUR crowdloan contribution to receive a 5% bonus in ACA on YOUR DOT contribution. After you make YOUR crowdloan contribution, Acala will give you YOUR OWN referral code that you can share with others to receive 5% bonus in ACA on THEIR DOT contributions.
 
 
-## 2%-karura
+## 2-karura
 ### How do I get my 2% Karura Crowdloan bonus?
 If you contributed to the Karura Crowdloan, you must make your Acala Crowdloan contribution with the same account that you used to make your Karura contribution. If you do this, you will receive a 2% bonus in ACA on YOUR DOT contribution.
 
