@@ -3,7 +3,7 @@ const crowdloanFAQ = `
 
 ## get-referral
 ### How do I get a referral code?
-There are two ways to get a referral code. Users on the waitlist can complete the first two Acala Quests to receive their referral code via email. Users not on the waitlist can receive a referral code after they make their crowdloan contribution.
+There are two ways to get a referral code. Users on the waitlist (needed to sign up by Oct 12) can complete the first two Acala Quests to receive their referral code via email. Users not on the waitlist can receive a referral code after they make their crowdloan contribution.
 
 
 ## change-referral
