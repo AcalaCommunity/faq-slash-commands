@@ -11,6 +11,7 @@ There are two ways to get a referral code. Users on the waitlist (needed to sign
 Users on the waitlist are the only users that can change the DOT address linked to their referral code.
 To change the DOT address, redo Quests 1 and 2 using your waitlist email address and the new DOT address you'd like to use for your referral link. Your new referral link will be emailed to you.
 
+
 ## 10-bonus
 ### How do I get my 10% referral bonus?
 To get your 10% ACA bonus, enter YOUR referral code to self-refer when you make YOUR crowdloan contribution. You'll receive a 5% ACA bonus as the referrer and 5% ACA bonus as referee for a total of 10% bonus on YOUR DOT contribution. Share YOUR referral code with others and receive a 5% bonus in ACA on THEIR DOT contributions.
@@ -23,12 +24,22 @@ Enter SOMEONE ELSE'S referral code when you make YOUR crowdloan contribution to 
 
 ## 2-karura
 ### How do I get my 2% Karura Crowdloan bonus?
-If you contributed to the Karura Crowdloan, you must make your Acala Crowdloan contribution with the same account that you used to make your Karura contribution. If you do this, you will receive a 2% bonus in ACA on YOUR DOT contribution.
+If you contributed to the Karura Crowdloan, you must make your Acala Crowdloan contribution with the same account that you used to make your Karura contribution. If you do this, you will receive a 2% bonus in ACA on YOUR FIRST DOT contribution.
 
 
 ## bonus-chart
 ### Can you show how the bonuses can be used together?
 This is a simplified chart of how the bonuses can be used together https://wiki.acala.network/acala/acala-crowdloan/faq#can-you-show-how-the-bonuses-can-be-used-together. Please read the FAQ to understand the specific requirements for each bonus and how bonus rewards are calculated.
+
+
+## check-contribution
+### How do I check my crowdloan contribution?
+Learn more at https://wiki.acala.network/acala/acala-crowdloan/faq#how-do-i-check-my-crowdloan-contribution
+
+
+## reaped
+### I made a contribution but it seems like I lost an extra ~1 DOT - what happened?
+Polkadot requires that all non-zero balances be 1 DOT or greater. If the account balance falls below this amount, the 0.X DOT are automatically taken from the user by the Polkadot platform and cannot be returned. Because of this, it's important that users leave at least 1.1 DOT balance after they make their crowdloan contribution.
 
 
 ## how-lcdot
@@ -63,7 +74,7 @@ We do not discuss price in this server. You can discuss price in community-run, 
 
 ## number-aca
 ### How many ACA will I receive for each DOT contributed?
-The ACA to DOT ratio will be announced at a later time. 170,000,000 ACA tokens (17% of the fixed supply) will be distributed to crowdloan contributors.
+170,000,000 ACA tokens (17% of the fixed supply) will be distributed to crowdloan contributors. The final amount of ACA you receive is dependent on the total amount of DOT contributed to the Acala crowdloan.
 
 
 ## wen-aca
@@ -90,10 +101,6 @@ You can find more information by visiting https://wiki.acala.network/acala/acala
 ### Can I use Ledger?
 No. Do not use Ledger. Ledger does not support Acala and you won't be able to access your ACA tokens. We can not and will not help you get your ACA tokens if you use Ledger.
 
-
-## quests-help
-### How can I learn more about Acala Quests?
-Visit https://wiki.acala.network/acala/acala-crowdloan/acala-quests to learn more and for troubleshooting help
 `;
 
 export default crowdloanFAQ;
