@@ -34,7 +34,7 @@ This is a simplified chart of how the bonuses can be used together https://wiki.
 
 ## check-contribution
 ### How do I check my crowdloan contribution?
-Learn more at https://wiki.acala.network/acala/acala-crowdloan/faq#how-do-i-check-my-crowdloan-contribution
+Go to https://acala.network/acala/join-acala/bonus to check your contribution and track your rewards.
 
 
 ## reaped
