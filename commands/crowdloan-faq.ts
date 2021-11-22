@@ -16,6 +16,7 @@ Contributors that made a Liquid Crowdloan Contribution must hold lcDOT at the en
 The price of lcDOT will be determined by the free market. Acala does not control the price of lcDOT. We also have a policy of not discussing price in this server. You can discuss price in community-run, Acala+ server https://discord.gg/HCpBgJc7. 
 
 
+
 ## price-talk
 ### Server rules about price talk
 We do not discuss price in this server. You can discuss price in community-run, Acala+ server https://discord.gg/HCpBgJc7.
